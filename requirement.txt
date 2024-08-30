@@ -1,6 +1,7 @@
+statsmodels
 pandas
 numpy
 pickle
-statsmodels
+
 matplotlib
 streamlit
